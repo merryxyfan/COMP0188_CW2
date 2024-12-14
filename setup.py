@@ -6,7 +6,7 @@ import setuptools
 HERE = pathlib.Path(__file__).parent
 
 setuptools.setup(
-    name='comp0188_cw2',
+    name='comp0188_cw2_',
     version='1.0.0',
     description="",
     long_description="",
